@@ -1,6 +1,3 @@
-# tomcat-server-key
-
-
 -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAlHXR6uojJzHhYdQoJGmypANys8DI2fpkXsuGR5ra2Nw6QyEi
 bBuXs3XD/Dgz+nw1H626Va/dR3KN3UeeqIA8zm6jCW1EAPxDU1KFUdFxGxtT9RTh
